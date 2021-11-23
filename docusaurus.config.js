@@ -24,7 +24,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           includeCurrentVersion:false,
-          editUrl: 'https://github.com/ikhsanla/data-catalog/edit/main/website/',
+          editUrl: 'https://github.com/ikhsanla/data-catalog/tree/main/',
         },
         blog: {
           showReadingTime: true,
